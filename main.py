@@ -1,6 +1,7 @@
 
 # ein Test
 print('Die Programmiersprache "Python" ist cool')
+print("Acer ist dazugekommen")
 
 # Variablen
 # was sind Variablem es sind Datenbehälter
