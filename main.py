@@ -1,25 +1,9 @@
 #!/usr/bin/python3
-
 # ein Test
-print('Die Programmiersprache "Python" ist cool')
-print("Acer ist dazugekommen")
 
-# Variablen
-# was sind Variablem es sind Datenbehälter
+#import pyteil1
+from pyteil1 import echo
 
-age = 66
-vorname = "Dieter"
-nachname = "Tholen"
+echo(4, 5, 6, c='du Hupe')
 
-print("Anfang des Programms  " + __name__)
 
-print(age)
-
-print(vorname + ' ' + nachname)
-
-# Input
-name = input()
-
-test = input("Deine Eingabe: ")
-
-print("Ende des Programms" + " " + name)
